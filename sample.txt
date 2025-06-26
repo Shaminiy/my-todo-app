@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-this is a sample text file
-adding another line to see for stash
-=======
 this is a sample text file
 adding another line to see for stash
 adding for cherry pick
->>>>>>> 7402d4e (Update sample.txt)
+adding this change to review localy and merge
